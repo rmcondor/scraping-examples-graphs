@@ -38,4 +38,4 @@ For more details, please visit the webpage of the Electoral Committee: [link](ht
 <img src="./outputs/gradecareertop3.png" height="500">
 
 ## Contact
-If you have any questions or want to request the data for research purposes, feel free to contact me at rmcondorit@gmail.com. You can also follow me on [Twitter](https://twitter.com/rmcondor)  for more updates on my projects.
+If you have any questions or want to request all the materials for research purposes, feel free to contact me at rmcondorit@gmail.com. You can also follow me on [Twitter](https://twitter.com/rmcondor)  for more updates on my projects.
