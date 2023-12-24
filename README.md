@@ -1,4 +1,4 @@
-# Web Scraping Repository (only a gallery of my work)
+# Web Scraping Repository and Gallery
 
 This repository contains various examples of web scraping projects using different tools and techniques. The datasets are mainly of Peruvian pages and files.
 
